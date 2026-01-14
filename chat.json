@@ -26,5 +26,12 @@
     "type": "video",
     "text": "https://raw.githubusercontent.com/Veeonix/chat-page/main/assets/vid_1768378533091.mp4",
     "time": "2026-01-14T08:16:07.220Z"
+  },
+  {
+    "user": "Chris",
+    "isEvent": true,
+    "type": "video",
+    "text": "https://raw.githubusercontent.com/Veeonix/chat-page/main/assets/vid_1768378797141.mp4",
+    "time": "2026-01-14T08:20:03.469Z"
   }
 ]
