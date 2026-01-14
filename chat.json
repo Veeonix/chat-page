@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "user": "Chris",
+    "isEvent": true,
+    "type": "video",
+    "time": "2026-01-14T08:10:51.067Z",
+    "text": "https://raw.githubusercontent.com/Veeonix/chat-page/main/assets/vid_1768378244027.mp4"
+  }
+]
